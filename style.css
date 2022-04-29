@@ -1,0 +1,124 @@
+body{
+    background-color: #b32900;
+}
+
+.escopo{
+    background-color: #fcaf14;
+}
+
+P{
+    color: black;
+    margin-left:auto;
+    margin-right:auto;
+    width: 30em
+
+}
+ .site-nome{
+     font-size: 90px;
+     text-align: center;
+     font-family: 'Economica', sans-serif;
+     background-color:  #fcaf14;
+     color: #001449;
+ }
+
+ .titulo{
+    text-align: center;
+    color: darkslategray;
+    font-size: 70px;
+    font-family: 'Economica', sans-serif;
+    background-color:  #fcaf14;
+}
+
+.subtitulo{
+    text-align: center;
+    font-size: 50px;
+    color: #e9140d;
+    font-family: 'Economica', sans-serif;
+}
+
+h1{
+font-family: 'Economica', sans-serif;
+text-align: center;
+color: black;
+}
+
+
+
+.bandeira-pernambuco{
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+.bolo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+
+}
+.bloco-um{
+    font-size: 30px;
+    color: royalblue;
+    text-align: left;
+    background-color: #fda664;
+    
+}
+
+.bloco-historia-bolo-rolo{
+    font-size: 30px;
+    text-align: left;
+    background-color:#ff8830;
+}
+.interrogação{
+height: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.bloco-dois{
+    font-size: 30px;
+    text-align: left;
+    background-color: #fda664;
+}
+.trigo,.açúcar,.ovos,.clara-neve,.margarina,.goiaba,.agua{
+    height: 100px;
+}
+.titulo5,.titulo4{
+    text-align: left;
+}
+
+
+.bloco-tres{
+ font-size: 30px ;
+ text-align: left;
+ background-color: #ff8830;
+}
+
+.montagem,.preparo{
+font-family: 'Economica', sans-serif;
+color: black;
+font-size: 50px;
+
+}
+
+.bloco-quatro{
+text-align: left;
+font-size: 30px;
+background-color: #fda664;
+}
+
+textarea{
+    resize: none;
+}
+textarea:invalid{
+    border:2px solid red;
+}
+
+.link{
+    text-align: center;
+}

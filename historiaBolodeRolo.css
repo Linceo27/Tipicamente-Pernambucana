@@ -1,0 +1,38 @@
+h1{
+    font-family: 'Economica', sans-serif;
+text-align: center;
+color: black;
+font-size: 80px;
+background-color: #e8da5e;
+color: #e72313;
+}
+
+.h1{
+   color: #03453d;
+}
+
+h2{
+    font-family: 'Economica', sans-serif;
+    text-align: center;
+    color: #001449;;
+    font-size: 50px; 
+    background-color: #e8da5e;
+}
+
+p{
+    font-size: 40px;
+    background-color: #e6ac27;
+}
+.p2{
+    background-color:#e6ac27;
+}
+
+body{
+    background-color:#fda664;}
+
+img{
+    height: 300px;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+}
